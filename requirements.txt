@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+fer
+pyAudioAnalysis
+moviepy==1.0.3
+imageio
+imageio-ffmpeg
+pandas
